@@ -16,12 +16,7 @@ The Enchanted Forest Adventure is an interactive text-based adventure game where
 3. Open a terminal/command prompt and navigate to the project directory
 4. Run the main script:
    ```
-   python enchanted_forest.py
-   ```
-   
-Or alternatively:
-   ```
-   python demo_script.py
+   storyfbla.py
    ```
 
 ## Game Features
